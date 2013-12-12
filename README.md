@@ -1,7 +1,7 @@
 django-importer
 ===============
 
-This application has been renamed to [dajngo-drift][dr].
+This application has been renamed to [django-drift][dr].
 
 
 
